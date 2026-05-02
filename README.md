@@ -15,7 +15,6 @@ Hello! I am a science student specializing in **Physics, Chemistry, and Mathemat
 - 🟰 **Mathematics:** Deepening and expanding knowledge
 - 🇩🇪 **German:** B1 certification (Goethe-Institut) — gateway to research in Germany
 - 🇺🇸 **English:** currently training for technical reading and scientific articles
-- 📲 **Kotlin:** Scientific integration with Android applications
 
 ## 📫 Where to find me:
 - GitHub: [natan-augusto](https://github.com/natan-augusto)
