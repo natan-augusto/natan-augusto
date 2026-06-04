@@ -1,26 +1,35 @@
 <div align="center">
-  
-  # Natan Augusto
+
+# Natan Augusto
+
 </div>
 
-Hello! I am a science student specializing in **Physics, Chemistry, and Mathematics**. My goal is to become a **Physical Chemist** and **Theoretical Physicist**, combining quantum chemistry with theoretical physics to explore molecular simulations and fundamental phenomena.
+Hello! I am a high school student interested in Physics, Chemistry, Mathematics, and Scientific Programming.
 
-## 🚀 What I’m working on:
+I am currently building a strong foundation in mathematics, science, and computing through independent study, scientific projects, and documentation on GitHub.
 
-- 💻 **Git Commands:** Ongoing study of Git commands
-- 🐍 **Scientific Python:** fundamentals for simulating physical and chemical systems
-- ⚛️ **Computational Physical Chemistry:** preparation for molecular modeling and quantum chemistry
-- 📐 **Theoretical Physics:** foundation in quantum mechanics, thermodynamics, and numerical simulations
-- 🧪 **Chemistry:** Deepening and expanding knowledge
-- 🟰 **Mathematics:** Deepening and expanding knowledge
-- 🇩🇪 **German:** B1 certification (Goethe-Institut) — gateway to research in Germany
-- 🇺🇸 **English:** currently training for technical reading and scientific articles
+## 🚀 What I'm currently working on
 
-## 📫 Where to find me:
+- 📚 Mathematics (FME collection)
+- 🐍 Python for scientific computing
+- 🧠 Logic and computational thinking
+- 🧪 Experimental chemistry
+- ⚛️ Physics fundamentals
+- 🇩🇪 German (Goethe-Institut pathway)
+- 🇺🇸 English for scientific reading
+
+## 📂 Current focus
+
+- Documenting my learning journey through notebooks and code
+- Applying mathematical concepts with Python
+- Developing scientific reasoning and experimental skills
+- Preparing for future studies in science and technology
+
+## 📫 Where to find me
+
 - GitHub: [natan-augusto](https://github.com/natan-augusto)
-- LinkedIn: [Natan Augusto](https://www.linkedin.com/in/natan-augusto-042166400/)
+- LinkedIn: [Natan Augusto](https://www.linkedin.com/in/natan-augusto)
 
 ---
 
-*Building the foundation for computational physics and deep tech research.*
-*Building the foundation for the science of the future.*
+*Building strong foundations in science, mathematics, and computing.*
